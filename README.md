@@ -39,7 +39,7 @@ Getting started with SubCrawl is super easy! Follow these steps:
 
 3. **Run the Tool**:
    ```bash
-   python3 subcrawl.py
+   python3 main.py
    ```
 
    SubCrawl will automatically check for and install any missing tools (e.g., `subfinder`, `amass`, `waybackurls`, `httpx`, `jq`, and `curl`). 🪄
