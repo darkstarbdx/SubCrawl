@@ -1,3 +1,5 @@
+# ⚠️ CURRENTLY THIS TOOL IS FACING SOME INTERNAL PROBLEM, WE ARE WORKIGN TO FIZ IT AS SOON AS POSSIBLE!!!
+---
 # SubCrawl v1.0🕷️
 
 Forget about adding API's into tools! **SubCrawl** is your ultimate **ethical hacking** and **bug hunting** sidekick! 🦸‍♂️ This Python-based tool automates the process of **subdomain enumeration**, **URL fetching**, and **live domain detection**, making reconnaissance faster, easier, and more efficient. With its sleek terminal UI, enhanced animations, and robust functionality, SubCrawl is designed to help you uncover hidden gems on the web. 🌐
